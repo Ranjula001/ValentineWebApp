@@ -7,7 +7,9 @@ const messages = [
   { text: "My heart knew something special", duration: 7000 },
   { text: "Your smile lights up my world", duration: 8000 },
   { text: "I will cherish every moment with you", duration: 9000 },
-  { text: "Will you be my valentine and let me love you forever?", duration: 10000 }
+  { text: "I love you more than you can imagine and I wanna be yours !", duration: 10000 },
+  { text: "I wanna make you mine, you are the only one !", duration: 11000 },
+  { text: "Will you be my valentine and let me love you forever ?", duration: 12000 }
 ]
 
 export default function LoveMessages({ isPlaying }) {
